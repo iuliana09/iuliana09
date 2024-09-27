@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on UX/UI projects, design systems, and design research.
 - 📫 How to reach me iuliana.iftimie@bytex.ro
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love nature, photography, sports( bastketball, batmington), cooking/trying new food
+- ⚡ Fun fact: I love nature, photography, sports, cooking/trying new food
 
 <!---
 iuliana09/iuliana09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
